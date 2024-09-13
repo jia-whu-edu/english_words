@@ -3652,7 +3652,7 @@ divorce	n. 离婚，离异 vt. 离婚； 分离， 脱离
 tariff	n. 关税， 税率； 价目表， 收费表
 attach	vt. 缚， 系， 贴， 附加； 使依恋， 使喜爱； 使附属； 认为有
 graphic	adj. 生动的， 形象的； 绘画的， 文字的， 图表的
-convict	vt. 证明…有罪，宣判…有罪['kɒnvɪkt] n. 囚犯
+convict	vt. 证明…有罪，宣判…有罪  n. 囚犯
 retention	n. 保留， 保持
 creation	n. 创造， 创建； 创造的作品， 产物； 宇宙， 天地万物
 legislation	n. 法律， 法规； 立法， 法律的制定
